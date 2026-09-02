@@ -1,0 +1,1 @@
+import"./globals.css";export const metadata={title:"Crimosne OTP",description:"Crimosne digital platform"};export default function RootLayout({children}){return <html lang="id"><body>{children}</body></html>}
